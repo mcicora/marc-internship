@@ -21,7 +21,7 @@ const Explore = () => {
 
   useEffect(() => {
     window.scrollTo(0, 0);
-    // Any comment
+    // FROM MAIN!! DO NOT REMOVE
   }, []);
 
   useEffect(() => {
