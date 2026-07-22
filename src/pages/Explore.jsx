@@ -21,7 +21,7 @@ const Explore = () => {
 
   useEffect(() => {
     window.scrollTo(0, 0);
-    // Does this work?
+    // Any comment
   }, []);
 
   useEffect(() => {
